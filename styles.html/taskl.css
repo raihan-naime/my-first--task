@@ -43,3 +43,30 @@ li::marker{
 .main{
     margin: 50px 75px 40px;
 }
+.mindset{
+    color: #ffffff;
+}
+.end-btn{
+    color: green;
+}
+.footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+.gray-text{
+    color: #444343;
+}
+.middle-para{
+    color: #737272;
+}
+.sub-btn{
+    margin: 10px;
+    padding: 10px;
+    background-color: #005FAC;
+    border-radius: 5px;
+}
+.last-block{
+    margin-bottom: 50px;
+    margin-top: 50px;
+} 
